@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="palitra_color">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="textDataColor" format="color"/>
+        <attr name="imageButtonColor" format="color"/>
+        <attr name="delete_swipe_button_color" format="color" />
+        <attr name="rcColor" format="color"/>
+        <attr name="tintColor" format="color"/>
+    </declare-styleable>
+</resources>

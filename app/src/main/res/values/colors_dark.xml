@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="separator_dark">#33FFFFFF</color>
+    <color name="overlay_dark">#52000000</color>
+    <color name = "green_dark">#32D74B</color>
+    <color name = "label_secondary_dark">#99ffffff</color>
+    <color name="label_tertiary_dark">#66ffffff</color>
+    <color name="label_disable_dark">#26FFFFFF</color>
+    <color name = "primary_dark">#161618</color>
+    <color name = "gray_dark">#8e8e93</color>
+    <color name = "blue_dark">#0a84ff</color>
+    <color name = "elevated_dark">#3c3c3f</color>
+    <color name = "grey_light_dark">#48484a</color>
+    <color name = "red_dark">#FF453A</color>
+    <color name="back_secondary_dark">#252528</color>
+    <color name="tertiary">#4D000000</color>
+    <color name="disable">#26000000</color>
+</resources>
