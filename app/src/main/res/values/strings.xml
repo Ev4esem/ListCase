@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListCase</string>
+    <string name="my_case">Мои дела</string>
+    <string name="done">Выполнено - 0</string>
+    <string name="what_need_to_do">Что надо сделать…</string>
+    <string name="importance">Важность</string>
+    <string name="need_before">Сделать до</string>
+    <string name="delete">Удалить</string>
+    <string name="chose_theme">Chose theme</string>
+    <string name="safe">СОХРАНИТЬ</string>
+    <string name="settings">Настройки</string>
+    <string name="importance_desc">Важность дела</string>
+    <string name="button_back_desc">Вернуться назад</string>
+    <string name="editText_desc">Поле для описания дела</string>
+    <string name="desc_delete_button">Удалить дело</string>
+    <string name="choose_time">Выбрать время</string>
+    <string name="add_case">Добавить дело</string>
+    <string name="theme_setting">Theme setting</string>
+    <string name="bought_what_to">Купить что-то</string>
+    <string name="input_yandex">Войти через Яндекс</string>
+    <string name="update_list">Update list item</string>
+    <string name="item_info">Item info</string>
+    <string name="update_item">Update item</string>
+    <string name="close_dialog">Close</string>
+    <string name="dialog_name">Name</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="empty_name">The name can\'t be blank</string>
+
+</resources>
