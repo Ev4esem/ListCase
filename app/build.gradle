@@ -2,7 +2,6 @@ plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
     id 'kotlin-kapt'
-    id 'dagger.hilt.android.plugin'
     id("kotlin-parcelize")
 }
 
@@ -55,7 +54,7 @@ android {
 }
 
 dependencies {
-    def hilt_version = '2.44'
+    def dagger_version = '2.44'
     def hiltTest_version = '2.44'
     def navVersion = "2.4.0"
     def room_version = '2.5.2'
@@ -70,11 +69,9 @@ dependencies {
     implementation 'it.xabaras.android:recyclerview-swipedecorator:1.4'
 
     //Dagger 2
-    implementation "com.google.dagger:dagger:$hilt_version"
-    kapt "com.google.dagger:dagger-compiler:$hilt_version"
+    implementation "com.google.dagger:dagger:$dagger_version"
+    kapt "com.google.dagger:dagger-compiler:$dagger_version"
 
-    implementation "com.google.dagger:hilt-android:$hilt_version"
-    kapt "com.google.dagger:hilt-compiler:$hilt_version"
     //Room
     implementation "androidx.room:room-ktx:$room_version"
     kapt("androidx.room:room-compiler:$room_version")

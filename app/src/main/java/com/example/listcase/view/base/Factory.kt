@@ -5,23 +5,20 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.AbstractSavedStateViewModelFactory
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
+import androidx.lifecycle.ViewModelProvider
 import androidx.savedstate.SavedStateRegistryOwner
 import com.example.listcase.MainApp
 import com.example.listcase.domain.di.AppComponent
+import com.example.listcase.domain.di.DaggerAppComponent
 
-class Factory<T : ViewModel>(
-    savedStateRegistryOwner : SavedStateRegistryOwner,
-    private val create : (stateHandle : SavedStateHandle) -> T
-) : AbstractSavedStateViewModelFactory(savedStateRegistryOwner,null) {
+class Factory<T: ViewModel>(
+    savedStateRegistryOwner: SavedStateRegistryOwner,
+    private val create: (stateHandle: SavedStateHandle) -> T
+) : AbstractSavedStateViewModelFactory(savedStateRegistryOwner, null) {
 
-    override fun <T : ViewModel> create(
-        key : String,
-        modelClass : Class<T>,
-        handle : SavedStateHandle
-    ) : T {
+    override fun <T : ViewModel> create(key: String, modelClass: Class<T>, handle: SavedStateHandle): T {
         return create.invoke(handle) as T
     }
-
 }
 
 inline fun <reified T : ViewModel> Fragment.lazyViewModel(
@@ -29,6 +26,3 @@ inline fun <reified T : ViewModel> Fragment.lazyViewModel(
 ) = viewModels<T> {
     Factory(this,create)
 }
-
-fun Fragment.getAppComponent() : AppComponent =
-    (requireContext() as MainApp).appComponent

@@ -10,17 +10,16 @@ import androidx.navigation.navOptions
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.listcase.MainApp
 import com.example.listcase.R
+import com.example.listcase.appComponent
 import com.example.listcase.databinding.FragmentListCaseBinding
-import com.example.listcase.domain.di.AppComponent
 import com.example.listcase.domain.extities.TodoItem
 import com.example.listcase.utils.SwipeToDeleteCallbacks
 import com.example.listcase.utils.ThemeManager
 import com.example.listcase.view.base.BaseFragment
-import com.example.listcase.view.base.getAppComponent
 import com.example.listcase.view.base.lazyViewModel
 import com.example.listcase.view.case_list.FragmentDetailsCase.Companion.CASE_ID
-import dagger.hilt.android.AndroidEntryPoint
 
 
 class FragmentListCase : BaseFragment(R.layout.fragment_list_case), CaseListAdapter.Listener {
@@ -32,7 +31,7 @@ class FragmentListCase : BaseFragment(R.layout.fragment_list_case), CaseListAdap
     private lateinit var swipeDelete : SwipeToDeleteCallbacks
 
     override val viewModel : ListCaseViewModel by lazyViewModel {
-        getAppComponent().listViewModel().create()
+        requireContext().appComponent.listViewModel().create()
     }
 
 

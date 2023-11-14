@@ -7,6 +7,7 @@ import com.example.listcase.view.base.BaseViewModel
 import dagger.assisted.AssistedFactory
 import dagger.assisted.AssistedInject
 import kotlinx.coroutines.launch
+import javax.inject.Inject
 
 
 class ListCaseViewModel @AssistedInject constructor(

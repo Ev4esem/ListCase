@@ -2,42 +2,35 @@ package com.example.listcase.view.auth
 
 import android.content.Intent
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
+import com.example.listcase.MainApp
 import com.example.listcase.R
+import com.example.listcase.appComponent
 import com.example.listcase.databinding.FragmentAuthBinding
+import com.example.listcase.domain.di.AppComponent
 import com.example.listcase.view.base.BaseFragment
-import com.example.listcase.view.base.getAppComponent
+import com.example.listcase.view.base.Factory
 import com.example.listcase.view.base.lazyViewModel
-import com.example.listcase.view.case_list.ListCaseViewModel
+import com.example.listcase.view.case_list.DetailsViewModel
 import com.yandex.authsdk.YandexAuthException
 import com.yandex.authsdk.YandexAuthLoginOptions
 import com.yandex.authsdk.YandexAuthOptions
 import com.yandex.authsdk.YandexAuthSdk
-import dagger.hilt.android.AndroidEntryPoint
 
 
 class AuthFragment : BaseFragment(R.layout.fragment_auth) {
 
-
     private lateinit var sdk : YandexAuthSdk
     private lateinit var binding : FragmentAuthBinding
     override val viewModel : AuthViewModel by lazyViewModel {
-        getAppComponent().authViewModel().create()
+        requireContext().appComponent.authViewModel().create()
     }
 
-    override fun onCreateView(
-        inflater : LayoutInflater,
-        container : ViewGroup?,
-        savedInstanceState : Bundle?
-    ) : View? {
-
-        return super.onCreateView(inflater, container, savedInstanceState)
+    override fun onCreate(savedInstanceState : Bundle?) {
+        super.onCreate(savedInstanceState)
     }
-
     override fun onViewCreated(view : View, savedInstanceState : Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding = FragmentAuthBinding.bind(view)

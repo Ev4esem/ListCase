@@ -1,278 +1,246 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\anim_exit_right.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\anim\\exit_right.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_theme_icon.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/theme_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-mdpi_app_image.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-mdpi\\app_image.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_close.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/close.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_ic_setting.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\ic_setting.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xxxhdpi_app_image_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xxxhdpi/app_image_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_visibility.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\visibility.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_checkbox_normal_priority.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/checkbox_normal_priority.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xxxhdpi_app_image.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xxxhdpi\\app_image.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-mdpi_app_image_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-mdpi/app_image_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\xml\\backup_rules.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-anydpi-v26_app_image_round.xml.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-anydpi-v26/app_image_round.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_theme_icon.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\theme_icon.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xxhdpi_app_image.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xxhdpi/app_image.webp"
     },
     {
         "merged": "com.example.listcase.app-merged_res-56:/drawable_ic_setting.xml.flat",
         "source": "com.example.listcase.app-main-58:/drawable/ic_setting.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_dart_screen.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\dart_screen.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_visibility.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/visibility.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_check.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/check.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\xml_settings_preference.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\xml\\settings_preference.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/layout_fragment_details_case.xml.flat",
+        "source": "com.example.listcase.app-main-58:/layout/fragment_details_case.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/anim_from_right.xml.flat",
+        "source": "com.example.listcase.app-main-58:/anim/from_right.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-anydpi-v26_app_image_round.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-anydpi-v26\\app_image_round.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xxxhdpi_app_image.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xxxhdpi/app_image.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_info_outline.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\info_outline.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_registration_screen_color.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/registration_screen_color.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xhdpi_app_image_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xhdpi\\app_image_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_add.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/add.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_dart_screen.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/dart_screen.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_visibility_off.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-hdpi_app_image.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-hdpi\\app_image.webp"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_checkbox_priority_selector.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\checkbox_priority_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_close.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\close.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_checkbox_high_priority.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\checkbox_high_priority.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_checkbox_normal_priority.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\checkbox_normal_priority.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_arrow_back.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\arrow_back.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_edit_text_style.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/edit_text_style.xml"
     },
     {
         "merged": "com.example.listcase.app-merged_res-56:/drawable_ic_launcher_background.xml.flat",
         "source": "com.example.listcase.app-main-58:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\layout_item_case.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\item_case.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-hdpi_app_image_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-hdpi\\app_image_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-anydpi-v26_app_image.xml.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-anydpi-v26/app_image.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_add.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\add.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_crash_image_gray.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\crash_image_gray.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_checkbox_high_priority.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/checkbox_high_priority.xml"
+    },
+    {
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_crash_image_gray.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/crash_image_gray.xml"
+    },
+    {
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_visibility_off.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/visibility_off.xml"
+    },
+    {
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_floating_button.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/floating_button.xml"
+    },
+    {
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.listcase.app-merged_res-56:/xml_backup_rules.xml.flat",
         "source": "com.example.listcase.app-main-58:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_edit_text_style.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\edit_text_style.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/anim_exit_right.xml.flat",
+        "source": "com.example.listcase.app-main-58:/anim/exit_right.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\layout_fragment_auth.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\fragment_auth.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_app_image_foreground.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/app_image_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\layout_fragment_details_case.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\fragment_details_case.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_info_outline.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/info_outline.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/layout_fragment_auth.xml.flat",
+        "source": "com.example.listcase.app-main-58:/layout/fragment_auth.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_checkbox_low_priority.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\checkbox_low_priority.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_line.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\line.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xxhdpi_app_image_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xxhdpi\\app_image_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/layout_item_case.xml.flat",
+        "source": "com.example.listcase.app-main-58:/layout/item_case.xml"
     },
     {
         "merged": "com.example.listcase.app-merged_res-56:/xml_data_extraction_rules.xml.flat",
         "source": "com.example.listcase.app-main-58:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xxhdpi_app_image.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xxhdpi\\app_image.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-hdpi_app_image_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-hdpi/app_image_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xxxhdpi_app_image_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xxxhdpi\\app_image_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/xml_settings_preference.xml.flat",
+        "source": "com.example.listcase.app-main-58:/xml/settings_preference.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-anydpi-v26_app_image.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-anydpi-v26\\app_image.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xxhdpi_app_image_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xxhdpi/app_image_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_floating_button.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\floating_button.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_checkbox_low_priority.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/checkbox_low_priority.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_crash_image.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\crash_image.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/navigation_nav_graph.xml.flat",
+        "source": "com.example.listcase.app-main-58:/navigation/nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xhdpi_app_image_round.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xhdpi/app_image_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-mdpi_app_image_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-mdpi\\app_image_round.webp"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_registration_screen_color.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\registration_screen_color.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/layout_fragment_list_case.xml.flat",
+        "source": "com.example.listcase.app-main-58:/layout/fragment_list_case.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\anim_from_right.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\anim\\from_right.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_arrow_back.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/arrow_back.xml"
     },
     {
         "merged": "com.example.listcase.app-merged_res-56:/drawable_ic_launcher_foreground.xml.flat",
         "source": "com.example.listcase.app-main-58:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_app_image_foreground.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\app_image_foreground.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_line.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/line.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-xhdpi_app_image.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-xhdpi/app_image.webp"
+    },
+    {
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_logo_list_case.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/logo_list_case.xml"
     },
     {
         "merged": "com.example.listcase.app-merged_res-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "com.example.listcase.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "com.example.listcase.app-merged_res-56:/layout_activity_main.xml.flat",
         "source": "com.example.listcase.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-mdpi_app_image.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-mdpi/app_image.webp"
+    },
+    {
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_button_visivible.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/button_visivible.xml"
     },
     {
         "merged": "com.example.listcase.app-merged_res-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "com.example.listcase.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\navigation\\nav_graph.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_checkbox_priority_selector.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/checkbox_priority_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_check.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\check.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_crash_image.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/crash_image.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_button_visivible.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\button_visivible.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/mipmap-hdpi_app_image.webp.flat",
+        "source": "com.example.listcase.app-main-58:/mipmap-hdpi/app_image.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_delete.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\delete.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\layout_fragment_list_case.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\fragment_list_case.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\mipmap-xhdpi_app_image.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\mipmap-xhdpi\\app_image.webp"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-merged_res-56:\\drawable_logo_list_case.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\drawable\\logo_list_case.xml"
+        "merged": "com.example.listcase.app-merged_res-56:/drawable_delete.xml.flat",
+        "source": "com.example.listcase.app-main-58:/drawable/delete.xml"
     }
 ]

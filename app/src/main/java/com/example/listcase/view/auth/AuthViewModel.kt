@@ -5,10 +5,8 @@ import androidx.lifecycle.viewModelScope
 import com.example.listcase.domain.auth.AccessTokenResponse
 import com.example.listcase.domain.auth.AuthRepository
 import com.example.listcase.view.base.BaseViewModel
-import com.example.listcase.view.case_list.ListCaseViewModel
 import dagger.assisted.AssistedFactory
 import dagger.assisted.AssistedInject
-import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

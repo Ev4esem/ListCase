@@ -1,26 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-mergeDebugResources-55:\\layout\\fragment_details_case.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\fragment_details_case.xml"
+        "merged": "com.example.listcase.app-mergeDebugResources-55:/layout/fragment_details_case.xml",
+        "source": "com.example.listcase.app-main-58:/layout/fragment_details_case.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-mergeDebugResources-55:\\layout\\item_case.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\item_case.xml"
+        "merged": "com.example.listcase.app-mergeDebugResources-55:/layout/item_case.xml",
+        "source": "com.example.listcase.app-main-58:/layout/item_case.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-mergeDebugResources-55:\\layout\\fragment_auth.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\fragment_auth.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-mergeDebugResources-55:\\layout\\fragment_list_case.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\fragment_list_case.xml"
+        "merged": "com.example.listcase.app-mergeDebugResources-55:/layout/fragment_auth.xml",
+        "source": "com.example.listcase.app-main-58:/layout/fragment_auth.xml"
     },
     {
         "merged": "com.example.listcase.app-mergeDebugResources-55:/layout/activity_main.xml",
         "source": "com.example.listcase.app-main-58:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-mergeDebugResources-55:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.listcase.app-main-58:\\layout\\activity_main.xml"
+        "merged": "com.example.listcase.app-mergeDebugResources-55:/layout/fragment_list_case.xml",
+        "source": "com.example.listcase.app-main-58:/layout/fragment_list_case.xml"
     }
 ]

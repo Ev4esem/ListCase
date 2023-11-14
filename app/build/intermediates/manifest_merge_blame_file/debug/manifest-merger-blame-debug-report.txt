@@ -9,69 +9,69 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.REORDER_TASKS" />
-11-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
-11-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:22-69
+11-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
+11-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:22-69
 12
 13    <permission
-13-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\62501f7e24f105202ce4fb2e93eaf3e2\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+13-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\dc4edcfe6fe9c94d059059eb792da477\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 14        android:name="com.example.listcase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-14-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\62501f7e24f105202ce4fb2e93eaf3e2\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+14-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\dc4edcfe6fe9c94d059059eb792da477\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 15        android:protectionLevel="signature" />
-15-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\62501f7e24f105202ce4fb2e93eaf3e2\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+15-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\dc4edcfe6fe9c94d059059eb792da477\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 16
 17    <uses-permission android:name="com.example.listcase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-17-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\62501f7e24f105202ce4fb2e93eaf3e2\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-17-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\62501f7e24f105202ce4fb2e93eaf3e2\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+17-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\dc4edcfe6fe9c94d059059eb792da477\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\dc4edcfe6fe9c94d059059eb792da477\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 18
 19    <queries>
-19-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:10:5-30:15
+19-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:10:5-30:15
 20        <intent>
-20-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:11:9-15:18
+20-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:11:9-15:18
 21            <action android:name="android.intent.action.VIEW" />
-21-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:13-65
-21-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:21-62
+21-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:13-65
+21-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:21-62
 22
 23            <data android:scheme="https" />
-23-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:13-44
-23-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:19-41
+23-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:13-44
+23-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:19-41
 24        </intent>
 25        <intent>
-25-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:16:9-18:18
+25-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:16:9-18:18
 26            <action android:name="com.yandex.auth.action.YA_SDK_LOGIN" />
-26-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:17:13-74
-26-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:17:21-71
+26-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:17:13-74
+26-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:17:21-71
 27        </intent>
 28
 29        <package android:name="com.yandex.browser" /> <!-- Яндекс бразуер с алисой -->
-29-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:20:9-54
-29-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:20:18-51
+29-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:20:9-54
+29-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:20:18-51
 30        <package android:name="ru.yandex.searchplugin" /> <!-- Яндекс Старт -->
-30-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:21:9-58
-30-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:21:18-55
+30-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:21:9-58
+30-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:21:18-55
 31        <package android:name="com.yandex.searchapp" /> <!-- Яндекс (в маркете называется Яндекс с алисой) -->
-31-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:22:9-56
-31-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:22:18-53
+31-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:22:9-56
+31-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:22:18-53
 32        <package android:name="ru.yandex.taxi" /> <!-- Яндекс GO -->
-32-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:23:9-50
-32-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:23:18-47
+32-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:23:9-50
+32-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:23:18-47
 33        <package android:name="ru.yandex.music" /> <!-- Яндекс музыка -->
-33-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:24:9-51
-33-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:24:18-48
+33-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:24:9-51
+33-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:24:18-48
 34        <package android:name="ru.yandex.yandexmaps" /> <!-- Яндекс Карты -->
-34-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:25:9-56
-34-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:25:18-53
+34-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:25:9-56
+34-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:25:18-53
 35        <package android:name="ru.foodfox.client" /> <!-- Яндекс Еда -->
-35-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:26:9-53
-35-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:26:18-50
+35-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:26:9-53
+35-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:26:18-50
 36        <package android:name="ru.yandex.mail" /> <!-- Яндекс Почта -->
-36-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:27:9-50
-36-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:27:18-47
+36-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:27:9-50
+36-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:27:18-47
 37        <package android:name="ru.yandex.disk" /> <!-- Яндекс Диск -->
-37-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:28:9-50
-37-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:28:18-47
+37-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:28:9-50
+37-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:28:18-47
 38        <package android:name="ru.yandex.auth.client" /> <!-- Семпл АМа -->
-38-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:29:9-57
-38-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:29:18-54
+38-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:29:9-57
+38-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:29:18-54
 39    </queries>
 40
 41    <application
@@ -81,7 +81,7 @@
 43        android:allowBackup="true"
 43-->D:\ListCase3\app\src\main\AndroidManifest.xml:6:9-35
 44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-44-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\62501f7e24f105202ce4fb2e93eaf3e2\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+44-->[androidx.core:core:1.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\dc4edcfe6fe9c94d059059eb792da477\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 45        android:dataExtractionRules="@xml/data_extraction_rules"
 45-->D:\ListCase3\app\src\main\AndroidManifest.xml:7:9-65
 46        android:debuggable="true"
@@ -118,57 +118,57 @@
 63        </activity>
 64
 65        <service
-65-->[androidx.room:room-runtime:2.5.2] C:\Users\Administrator\.gradle\caches\transforms-3\4eaf8a688461190049a31dc3a77f2d8a\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+65-->[androidx.room:room-runtime:2.5.2] C:\Users\Administrator\.gradle\caches\transforms-3\9099437057f8b64699c95decd7ad5f0f\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
 66            android:name="androidx.room.MultiInstanceInvalidationService"
-66-->[androidx.room:room-runtime:2.5.2] C:\Users\Administrator\.gradle\caches\transforms-3\4eaf8a688461190049a31dc3a77f2d8a\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+66-->[androidx.room:room-runtime:2.5.2] C:\Users\Administrator\.gradle\caches\transforms-3\9099437057f8b64699c95decd7ad5f0f\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
 67            android:directBootAware="true"
-67-->[androidx.room:room-runtime:2.5.2] C:\Users\Administrator\.gradle\caches\transforms-3\4eaf8a688461190049a31dc3a77f2d8a\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+67-->[androidx.room:room-runtime:2.5.2] C:\Users\Administrator\.gradle\caches\transforms-3\9099437057f8b64699c95decd7ad5f0f\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
 68            android:exported="false" />
-68-->[androidx.room:room-runtime:2.5.2] C:\Users\Administrator\.gradle\caches\transforms-3\4eaf8a688461190049a31dc3a77f2d8a\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+68-->[androidx.room:room-runtime:2.5.2] C:\Users\Administrator\.gradle\caches\transforms-3\9099437057f8b64699c95decd7ad5f0f\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
 69
 70        <activity
-70-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:27:9-34:20
+70-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:27:9-34:20
 71            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-71-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:28:13-99
+71-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:28:13-99
 72            android:exported="true"
-72-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:29:13-36
+72-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:29:13-36
 73            android:theme="@style/WhiteBackgroundTheme" >
-73-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:30:13-56
+73-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:30:13-56
 74            <intent-filter android:priority="-100" >
-74-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
-74-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+74-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+74-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 75                <category android:name="android.intent.category.LAUNCHER" />
 75-->D:\ListCase3\app\src\main\AndroidManifest.xml:22:17-77
 75-->D:\ListCase3\app\src\main\AndroidManifest.xml:22:27-74
 76            </intent-filter>
 77        </activity>
 78        <activity
-78-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:35:9-42:20
+78-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:35:9-42:20
 79            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-79-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:36:13-95
+79-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:36:13-95
 80            android:exported="true"
-80-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:37:13-36
+80-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:37:13-36
 81            android:theme="@style/WhiteBackgroundTheme" >
-81-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:38:13-56
+81-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:38:13-56
 82            <intent-filter android:priority="-100" >
-82-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
-82-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+82-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+82-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 83                <category android:name="android.intent.category.LAUNCHER" />
 83-->D:\ListCase3\app\src\main\AndroidManifest.xml:22:17-77
 83-->D:\ListCase3\app\src\main\AndroidManifest.xml:22:27-74
 84            </intent-filter>
 85        </activity>
 86        <activity
-86-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:43:9-50:20
+86-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:43:9-50:20
 87            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-87-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:44:13-103
+87-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:44:13-103
 88            android:exported="true"
-88-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:45:13-36
+88-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:45:13-36
 89            android:theme="@style/WhiteBackgroundDialogTheme" >
-89-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:46:13-62
+89-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:46:13-62
 90            <intent-filter android:priority="-100" >
-90-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
-90-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\b89f3dad2a09117ef943de1df17c675f\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+90-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+90-->[androidx.test:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-3\ce84d8b65a69aa7085bcddd5dcf48382\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 91                <category android:name="android.intent.category.LAUNCHER" />
 91-->D:\ListCase3\app\src\main\AndroidManifest.xml:22:17-77
 91-->D:\ListCase3\app\src\main\AndroidManifest.xml:22:27-74
@@ -176,166 +176,166 @@
 93        </activity>
 94
 95        <provider
-95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\8d7cf9a8e65f03512cbb9c9a9a287675\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\abe45143df640c654786f7de343e230e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 96            android:name="androidx.startup.InitializationProvider"
-96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\8d7cf9a8e65f03512cbb9c9a9a287675\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\abe45143df640c654786f7de343e230e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
 97            android:authorities="com.example.listcase.androidx-startup"
-97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\8d7cf9a8e65f03512cbb9c9a9a287675\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\abe45143df640c654786f7de343e230e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
 98            android:exported="false" >
-98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\8d7cf9a8e65f03512cbb9c9a9a287675\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\abe45143df640c654786f7de343e230e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
 99            <meta-data
-99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\8d7cf9a8e65f03512cbb9c9a9a287675\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\abe45143df640c654786f7de343e230e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 100                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\8d7cf9a8e65f03512cbb9c9a9a287675\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\abe45143df640c654786f7de343e230e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
 101                android:value="androidx.startup" />
-101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\8d7cf9a8e65f03512cbb9c9a9a287675\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\abe45143df640c654786f7de343e230e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
 102            <meta-data
-102-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-3\8e5653ce25f508f20155a0d4aa14ddc3\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+102-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-3\cc92078212858b361805cc04f1f40d03\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
 103                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-103-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-3\8e5653ce25f508f20155a0d4aa14ddc3\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+103-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-3\cc92078212858b361805cc04f1f40d03\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
 104                android:value="androidx.startup" />
-104-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-3\8e5653ce25f508f20155a0d4aa14ddc3\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+104-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-3\cc92078212858b361805cc04f1f40d03\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
 105            <meta-data
-105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
 106                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
 107                android:value="androidx.startup" />
-107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
 108        </provider>
 109
 110        <uses-library
-110-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\a0363ac6cdf97e894d1d942476d473df\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+110-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5eff3b8e252ec598ac60892f2cfa50a1\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
 111            android:name="androidx.window.extensions"
-111-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\a0363ac6cdf97e894d1d942476d473df\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+111-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5eff3b8e252ec598ac60892f2cfa50a1\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
 112            android:required="false" />
-112-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\a0363ac6cdf97e894d1d942476d473df\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+112-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5eff3b8e252ec598ac60892f2cfa50a1\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
 113        <uses-library
-113-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\a0363ac6cdf97e894d1d942476d473df\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+113-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5eff3b8e252ec598ac60892f2cfa50a1\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
 114            android:name="androidx.window.sidecar"
-114-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\a0363ac6cdf97e894d1d942476d473df\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+114-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5eff3b8e252ec598ac60892f2cfa50a1\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
 115            android:required="false" />
-115-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\a0363ac6cdf97e894d1d942476d473df\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+115-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5eff3b8e252ec598ac60892f2cfa50a1\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
 116
 117        <activity
-117-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:33:9-36:64
+117-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:33:9-36:64
 118            android:name="com.yandex.authsdk.internal.AuthSdkActivity"
-118-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:34:13-71
+118-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:34:13-71
 119            android:label=""
-119-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:35:13-29
+119-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:35:13-29
 120            android:theme="@style/Theme.AuthSdk.Transparent" />
-120-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:36:13-61
+120-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:36:13-61
 121        <activity
-121-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:37:9-39:46
+121-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:37:9-39:46
 122            android:name="com.yandex.authsdk.internal.BrowserLoginActivity"
-122-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:38:13-76
+122-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:38:13-76
 123            android:launchMode="singleTop" />
-123-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:39:13-43
+123-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:39:13-43
 124        <activity
-124-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:40:9-43:52
+124-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:40:9-43:52
 125            android:name="com.yandex.authsdk.internal.WebViewLoginActivity"
-125-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:41:13-76
+125-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:41:13-76
 126            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-126-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:42:13-83
+126-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:42:13-83
 127            android:theme="@style/Theme.AuthSdk" />
-127-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:43:13-49
+127-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:43:13-49
 128        <activity
-128-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:44:9-72:20
+128-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:44:9-72:20
 129            android:name="com.yandex.authsdk.internal.BrowserDataActivity"
-129-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:45:13-75
+129-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:45:13-75
 130            android:exported="true"
-130-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:46:13-36
+130-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:46:13-36
 131            android:theme="@style/Theme.AuthSdk.Transparent" >
-131-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:47:13-61
+131-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:47:13-61
 132            <intent-filter android:autoVerify="true" >
-132-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:48:13-60:29
-132-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:49:17-42
+132-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:48:13-60:29
+132-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:49:17-42
 133                <action android:name="android.intent.action.VIEW" />
-133-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:13-65
-133-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:21-62
+133-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:13-65
+133-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:21-62
 134
 135                <category android:name="android.intent.category.DEFAULT" />
-135-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:53:17-76
-135-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:53:27-73
+135-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:53:17-76
+135-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:53:27-73
 136                <category android:name="android.intent.category.BROWSABLE" />
-136-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:54:17-78
-136-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:54:27-75
+136-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:54:17-78
+136-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:54:27-75
 137
 138                <data
-138-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:13-44
+138-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:13-44
 139                    android:host="yx7969fdbc4acd4fe9a599795f800eb157.oauth.yandex.ru"
 140                    android:path="/auth/finish"
 141                    android:scheme="https" />
-141-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:19-41
+141-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:19-41
 142            </intent-filter>
 143            <intent-filter>
-143-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:61:13-71:29
+143-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:61:13-71:29
 144                <action android:name="android.intent.action.VIEW" />
-144-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:13-65
-144-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:21-62
+144-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:13-65
+144-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:12:21-62
 145
 146                <category android:name="android.intent.category.DEFAULT" />
-146-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:53:17-76
-146-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:53:27-73
+146-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:53:17-76
+146-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:53:27-73
 147                <category android:name="android.intent.category.BROWSABLE" />
-147-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:54:17-78
-147-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:54:27-75
+147-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:54:17-78
+147-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:54:27-75
 148
 149                <data
-149-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:13-44
+149-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:13-44
 150                    android:path="/auth/finish"
 151                    android:scheme="yx7969fdbc4acd4fe9a599795f800eb157" />
-151-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:19-41
+151-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:14:19-41
 152            </intent-filter>
 153        </activity>
 154
 155        <meta-data
-155-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:74:9-76:51
+155-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:74:9-76:51
 156            android:name="com.yandex.auth.CLIENT_ID"
-156-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:75:13-53
+156-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:75:13-53
 157            android:value="7969fdbc4acd4fe9a599795f800eb157" />
-157-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:76:13-48
+157-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:76:13-48
 158        <meta-data
-158-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:77:9-79:47
+158-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:77:9-79:47
 159            android:name="com.yandex.auth.OAUTH_HOST"
-159-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:78:13-54
+159-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:78:13-54
 160            android:value="oauth.yandex.ru" />
-160-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\8ffb1adadf76f00244e814014cee1cfa\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:79:13-44
+160-->[com.yandex.android:authsdk:2.5.1] C:\Users\Administrator\.gradle\caches\transforms-3\a0b6d159221388b3584530f4cebb596f\transformed\jetified-authsdk-2.5.1\AndroidManifest.xml:79:13-44
 161
 162        <receiver
-162-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+162-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
 163            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-163-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+163-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
 164            android:directBootAware="false"
-164-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+164-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
 165            android:enabled="true"
-165-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+165-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
 166            android:exported="true"
-166-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+166-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
 167            android:permission="android.permission.DUMP" >
-167-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+167-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
 168            <intent-filter>
-168-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+168-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
 169                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-169-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-169-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+169-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+169-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
 170            </intent-filter>
 171            <intent-filter>
-171-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+171-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
 172                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-172-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-172-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+172-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+172-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
 173            </intent-filter>
 174            <intent-filter>
-174-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+174-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
 175                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-175-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-175-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+175-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+175-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
 176            </intent-filter>
 177            <intent-filter>
-177-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+177-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
 178                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-178-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-178-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\1210a6ff417605b51d234c412836e815\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+178-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+178-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\6fc574240b1e72c048ef6c2715935a50\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
 179            </intent-filter>
 180        </receiver>
 181    </application>

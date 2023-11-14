@@ -5,12 +5,12 @@ import android.content.Context
 import com.example.listcase.domain.di.AppDeps
 import com.example.listcase.domain.di.AppComponent
 import com.example.listcase.domain.di.DaggerAppComponent
-import dagger.hilt.android.HiltAndroidApp
 
 
 class MainApp : Application() {
 
     lateinit var appComponent : AppComponent
+        private set
 
     override fun onCreate() {
         super.onCreate()
@@ -25,6 +25,11 @@ class MainApp : Application() {
 
     }
 
-
-
 }
+
+val Context.appComponent: AppComponent
+    get() = when (this) {
+        is MainApp -> appComponent
+        else -> applicationContext.appComponent
+    }
+

@@ -10,17 +10,16 @@ import android.widget.Toast
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
+import com.example.listcase.MainApp
 import com.example.listcase.R
+import com.example.listcase.appComponent
 import com.example.listcase.databinding.FragmentDetailsCaseBinding
 import com.example.listcase.domain.ImportanceProvider
 import com.example.listcase.domain.extities.CaseImportance
 import com.example.listcase.domain.extities.TodoItem
-import com.example.listcase.view.base.BaseFragment
 import com.example.listcase.utils.dialogs.TimePickerFragment
-import com.example.listcase.view.base.getAppComponent
+import com.example.listcase.view.base.BaseFragment
 import com.example.listcase.view.base.lazyViewModel
-import dagger.hilt.android.AndroidEntryPoint
-
 
 
 class FragmentDetailsCase() :
@@ -32,7 +31,7 @@ class FragmentDetailsCase() :
     private var caseId : Long? = null
     private lateinit var binding : FragmentDetailsCaseBinding
     override val viewModel : DetailsViewModel by lazyViewModel {
-        getAppComponent().detailsViewModel().create()
+        requireContext().appComponent.detailsViewModel().create()
     }
 
     override fun onCreate(savedInstanceState : Bundle?) {
