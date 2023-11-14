@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.listcase.domain.CaseDaoTest" tests="3" failures="0" errors="0" skipped="0" time="1.854" timestamp="2023-10-23T06:26:26" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_2_API_30(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="deleteCaseItem" classname="com.example.listcase.domain.CaseDaoTest" time="0.161" />
+  <testcase name="updateCaseItem" classname="com.example.listcase.domain.CaseDaoTest" time="0.004" />
+  <testcase name="insertCaseItem" classname="com.example.listcase.domain.CaseDaoTest" time="0.011" />
+</testsuite>

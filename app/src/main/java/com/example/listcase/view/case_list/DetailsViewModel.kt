@@ -5,12 +5,14 @@ import androidx.lifecycle.viewModelScope
 import com.example.listcase.domain.extities.TodoItem
 import com.example.listcase.domain.repository.CaseRepository
 import com.example.listcase.view.base.BaseViewModel
+import dagger.assisted.AssistedFactory
+import dagger.assisted.AssistedInject
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
-@HiltViewModel
-class DetailsViewModel @Inject constructor(
+
+class DetailsViewModel @AssistedInject constructor(
     val repository : CaseRepository,
 ) : BaseViewModel() {
 
@@ -30,6 +32,11 @@ class DetailsViewModel @Inject constructor(
 
     fun getCaseById(caseId : Long) : LiveData<TodoItem>? {
         return repository.getCaseById(caseId)
+    }
+
+    @AssistedFactory
+    interface Factory {
+        fun create() : DetailsViewModel
     }
 
 }

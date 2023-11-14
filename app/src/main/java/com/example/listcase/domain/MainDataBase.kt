@@ -4,6 +4,7 @@ import androidx.room.Database
 import androidx.room.RoomDatabase
 import com.example.listcase.domain.auth.AccessTokenResponse
 import com.example.listcase.domain.extities.TodoItem
+import javax.inject.Inject
 
 
 @Database(entities = [TodoItem::class,AccessTokenResponse::class], version = 1)

@@ -10,19 +10,24 @@ import androidx.navigation.fragment.findNavController
 import com.example.listcase.R
 import com.example.listcase.databinding.FragmentAuthBinding
 import com.example.listcase.view.base.BaseFragment
+import com.example.listcase.view.base.getAppComponent
+import com.example.listcase.view.base.lazyViewModel
+import com.example.listcase.view.case_list.ListCaseViewModel
 import com.yandex.authsdk.YandexAuthException
 import com.yandex.authsdk.YandexAuthLoginOptions
 import com.yandex.authsdk.YandexAuthOptions
 import com.yandex.authsdk.YandexAuthSdk
 import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
+
 class AuthFragment : BaseFragment(R.layout.fragment_auth) {
 
 
     private lateinit var sdk : YandexAuthSdk
     private lateinit var binding : FragmentAuthBinding
-    override val viewModel by viewModels<AuthViewModel>()
+    override val viewModel : AuthViewModel by lazyViewModel {
+        getAppComponent().authViewModel().create()
+    }
 
     override fun onCreateView(
         inflater : LayoutInflater,

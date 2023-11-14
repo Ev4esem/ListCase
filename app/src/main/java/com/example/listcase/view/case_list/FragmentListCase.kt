@@ -12,22 +12,28 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.listcase.R
 import com.example.listcase.databinding.FragmentListCaseBinding
+import com.example.listcase.domain.di.AppComponent
 import com.example.listcase.domain.extities.TodoItem
 import com.example.listcase.utils.SwipeToDeleteCallbacks
 import com.example.listcase.utils.ThemeManager
 import com.example.listcase.view.base.BaseFragment
+import com.example.listcase.view.base.getAppComponent
+import com.example.listcase.view.base.lazyViewModel
 import com.example.listcase.view.case_list.FragmentDetailsCase.Companion.CASE_ID
 import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
+
 class FragmentListCase : BaseFragment(R.layout.fragment_list_case), CaseListAdapter.Listener {
+
 
     private lateinit var themeManager : ThemeManager
     private lateinit var binding : FragmentListCaseBinding
     private lateinit var adapter : CaseListAdapter
     private lateinit var swipeDelete : SwipeToDeleteCallbacks
 
-    override val viewModel by viewModels<ListCaseViewModel>()
+    override val viewModel : ListCaseViewModel by lazyViewModel {
+        getAppComponent().listViewModel().create()
+    }
 
 
     override fun onCreate(savedInstanceState : Bundle?) {

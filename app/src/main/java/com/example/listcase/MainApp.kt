@@ -1,11 +1,30 @@
 package com.example.listcase
 
 import android.app.Application
-import android.os.Build
-import androidx.core.content.ContextCompat
-import androidx.preference.PreferenceManager
-import com.example.listcase.utils.ThemeManager
+import android.content.Context
+import com.example.listcase.domain.di.AppDeps
+import com.example.listcase.domain.di.AppComponent
+import com.example.listcase.domain.di.DaggerAppComponent
 import dagger.hilt.android.HiltAndroidApp
 
-@HiltAndroidApp
-class MainApp : Application()
+
+class MainApp : Application() {
+
+    lateinit var appComponent : AppComponent
+
+    override fun onCreate() {
+        super.onCreate()
+        appComponent = DaggerAppComponent.builder()
+            .appDeps(AppDepsImpl())
+            .build()
+    }
+
+    private inner class AppDepsImpl : AppDeps {
+
+        override val context : Context = this@MainApp
+
+    }
+
+
+
+}

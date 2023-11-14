@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chose_theme_array">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="chose_theme_values">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="importance_list">
+        <item>Нет</item>
+        <item>Высокий</item>
+        <item>Низкий</item>
+    </string-array>
+    <color name="app_image_background">#3DDCCF</color>
+    <color name="back_secondary_dark">#252528</color>
+    <color name="black">#000000</color>
+    <color name="blue">#007AFF</color>
+    <color name="blue_dark">#0a84ff</color>
+    <color name="disable">#26000000</color>
+    <color name="elevated_dark">#3c3c3f</color>
+    <color name="gray">#8E8E93</color>
+    <color name="gray_dark">#8e8e93</color>
+    <color name="gray_light">#D1D1D6</color>
+    <color name="green">#34C759</color>
+    <color name="green_dark">#32D74B</color>
+    <color name="grey_light_dark">#48484a</color>
+    <color name="label_disable_dark">#26FFFFFF</color>
+    <color name="label_secondary_dark">#99ffffff</color>
+    <color name="label_tertiary_dark">#66ffffff</color>
+    <color name="label_tertiary_light">#4D000000</color>
+    <color name="orange">#D5AD00</color>
+    <color name="overlay_dark">#52000000</color>
+    <color name="primary">#F7F6F2</color>
+    <color name="primary_dark">#161618</color>
+    <color name="red">#FF3B30</color>
+    <color name="red_dark">#FF453A</color>
+    <color name="separator_dark">#33FFFFFF</color>
+    <color name="tertiary">#4D000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="add_case">Добавить дело</string>
+    <string name="app_name">ListCase</string>
+    <string name="bought_what_to">Купить что-то</string>
+    <string name="button_back_desc">Вернуться назад</string>
+    <string name="choose_time">Выбрать время</string>
+    <string name="chose_theme">Chose theme</string>
+    <string name="close_dialog">Close</string>
+    <string name="delete">Удалить</string>
+    <string name="desc_delete_button">Удалить дело</string>
+    <string name="dialog_name">Name</string>
+    <string name="done">Выполнено - 0</string>
+    <string name="editText_desc">Поле для описания дела</string>
+    <string name="empty_name">The name can\'t be blank</string>
+    <string name="importance">Важность</string>
+    <string name="importance_desc">Важность дела</string>
+    <string name="input_yandex">Войти через Яндекс</string>
+    <string name="item_info">Item info</string>
+    <string name="my_case">Мои дела</string>
+    <string name="need_before">Сделать до</string>
+    <string name="safe">СОХРАНИТЬ</string>
+    <string name="settings">Настройки</string>
+    <string name="theme_setting">Theme setting</string>
+    <string name="update_item">Update item</string>
+    <string name="update_list">Update list item</string>
+    <string name="what_need_to_do">Что надо сделать…</string>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat.Light">
+        
+        <item name="colorPrimary">@color/blue</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="colorControlNormal">@color/gray</item>
+        <item name="colorControlActivated">@color/red</item>
+        <item name="imageButtonColor">@color/red</item>
+        <item name="backgroundColor">@color/primary</item>
+        <item name="rcColor">@color/white</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowNoTitle">true</item>
+        <item name="textColor">@color/black</item>
+        <item name="buttonColor">@color/blue</item>
+        <item name="textDataColor">@color/label_tertiary_light</item>
+    </style>
+    <style name="button_style">
+        <item name="android:backgroundTint">@color/blue</item>
+        <item name="cornerRadius">5dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <declare-styleable name="palitra_color">
+        <attr format="color" name="backgroundColor"/>
+        <attr format="color" name="textColor"/>
+        <attr format="color" name="buttonColor"/>
+        <attr format="color" name="textDataColor"/>
+        <attr format="color" name="imageButtonColor"/>
+        <attr format="color" name="delete_swipe_button_color"/>
+        <attr format="color" name="rcColor"/>
+        <attr format="color" name="tintColor"/>
+    </declare-styleable>
+</resources>

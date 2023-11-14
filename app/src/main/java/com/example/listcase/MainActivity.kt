@@ -8,7 +8,7 @@ import androidx.preference.PreferenceManager
 import com.example.listcase.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding : ActivityMainBinding

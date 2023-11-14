@@ -4,12 +4,12 @@ import androidx.lifecycle.viewModelScope
 import com.example.listcase.domain.extities.TodoItem
 import com.example.listcase.domain.repository.CaseRepository
 import com.example.listcase.view.base.BaseViewModel
-import dagger.hilt.android.lifecycle.HiltViewModel
+import dagger.assisted.AssistedFactory
+import dagger.assisted.AssistedInject
 import kotlinx.coroutines.launch
-import javax.inject.Inject
 
-@HiltViewModel
-class ListCaseViewModel @Inject constructor(
+
+class ListCaseViewModel @AssistedInject constructor(
     val repository : CaseRepository
 ) : BaseViewModel() {
 
@@ -24,6 +24,11 @@ class ListCaseViewModel @Inject constructor(
 
     fun deleteCase(caseId : Long) = viewModelScope.launch {
         repository.deleteCase(caseId)
+    }
+
+    @AssistedFactory
+    interface Factory {
+        fun create() : ListCaseViewModel
     }
 
 }

@@ -17,10 +17,12 @@ import com.example.listcase.domain.extities.CaseImportance
 import com.example.listcase.domain.extities.TodoItem
 import com.example.listcase.view.base.BaseFragment
 import com.example.listcase.utils.dialogs.TimePickerFragment
+import com.example.listcase.view.base.getAppComponent
+import com.example.listcase.view.base.lazyViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 
-@AndroidEntryPoint
+
 class FragmentDetailsCase() :
     BaseFragment(R.layout.fragment_details_case),
     TimePickerFragment.TimePickerCallback,
@@ -29,8 +31,9 @@ class FragmentDetailsCase() :
 
     private var caseId : Long? = null
     private lateinit var binding : FragmentDetailsCaseBinding
-    override val viewModel by viewModels<DetailsViewModel>()
-
+    override val viewModel : DetailsViewModel by lazyViewModel {
+        getAppComponent().detailsViewModel().create()
+    }
 
     override fun onCreate(savedInstanceState : Bundle?) {
         super.onCreate(savedInstanceState)

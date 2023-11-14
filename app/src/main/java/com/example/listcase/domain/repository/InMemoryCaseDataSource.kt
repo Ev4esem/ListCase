@@ -7,7 +7,7 @@ import com.example.listcase.domain.extities.TodoItem
 import javax.inject.Inject
 import javax.inject.Singleton
 
-@Singleton
+
 class InMemoryCaseDataSource @Inject constructor(
     dataBase : MainDataBase
 ) : CaseRepository {

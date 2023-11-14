@@ -1,0 +1,2 @@
+10-23 06:26:24.435  8788  8810 I TestRunner: started: updateCaseItem(com.example.listcase.domain.CaseDaoTest)
+10-23 06:26:24.450  8788  8810 I TestRunner: finished: updateCaseItem(com.example.listcase.domain.CaseDaoTest)

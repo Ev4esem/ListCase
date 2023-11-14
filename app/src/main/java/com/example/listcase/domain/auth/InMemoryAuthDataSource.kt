@@ -4,7 +4,7 @@ import com.example.listcase.domain.MainDataBase
 import javax.inject.Inject
 import javax.inject.Singleton
 
-@Singleton
+
 class InMemoryAuthDataSource @Inject constructor(
     dataBase : MainDataBase
 ) : AuthRepository {

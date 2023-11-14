@@ -6,15 +6,15 @@ import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
+import dagger.hilt.migration.DisableInstallInCheck
 
 @Module
-@InstallIn(SingletonComponent::class)
-interface CaseModule {
+@DisableInstallInCheck
+interface DaggerCaseModule {
 
     @Binds
-    fun bindInMemoryDataSource(
+    fun bindCaseInMemoryCaseDataSource_to_CaseRepository(
         inMemoryCaseDataSource : InMemoryCaseDataSource
     ) : CaseRepository
-
 
 }
