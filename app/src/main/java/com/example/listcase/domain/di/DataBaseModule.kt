@@ -7,15 +7,8 @@ import com.example.listcase.domain.CaseDao
 import com.example.listcase.domain.MainDataBase
 import dagger.Module
 import dagger.Provides
-import dagger.hilt.InstallIn
-import dagger.hilt.android.qualifiers.ApplicationContext
-import dagger.hilt.components.SingletonComponent
-import dagger.hilt.migration.DisableInstallInCheck
-import javax.inject.Scope
-import javax.inject.Singleton
 
 @Module
-@DisableInstallInCheck
 class DataBaseModule {
 
     @Provides
